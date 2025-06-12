@@ -1,0 +1,184 @@
+{
+  "object": "page",
+  "id": "20f2cdbb-4757-813e-a159-c862d0db2398",
+  "created_time": "2025-06-11T20:24:00.000Z",
+  "last_edited_time": "2025-06-11T20:24:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "2f589f48-fe35-4317-8f84-345e601d4a44"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "2f589f48-fe35-4317-8f84-345e601d4a44"
+  },
+  "cover": null,
+  "icon": {
+    "type": "external",
+    "external": {
+      "url": "https://www.notion.so/icons/checkmark_green.svg"
+    }
+  },
+  "parent": {
+    "type": "database_id",
+    "database_id": "20f2cdbb-4757-81db-89c4-c213335e99f4"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "Ville": {
+      "id": "%3Aso%7C",
+      "type": "select",
+      "select": {
+        "id": "174c7d92-91c1-4e88-8ece-42edf5f92c89",
+        "name": "Evry",
+        "color": "red"
+      }
+    },
+    "Niveau d'effort": {
+      "id": "%3BoM%7C",
+      "type": "select",
+      "select": null
+    },
+    "Classe": {
+      "id": "%3D%3C%60%40",
+      "type": "select",
+      "select": {
+        "id": "926f38ae-5e57-4c95-a743-fdaca0551e3e",
+        "name": "M1 EDWEB",
+        "color": "default"
+      }
+    },
+    "Date de fin": {
+      "id": "BC%7BD",
+      "type": "date",
+      "date": {
+        "start": "2025-08-01",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Total": {
+      "id": "E%5DAO",
+      "type": "formula",
+      "formula": {
+        "type": "number",
+        "number": 210
+      }
+    },
+    "Ecole": {
+      "id": "GDGQ",
+      "type": "select",
+      "select": {
+        "id": "64c5008c-0326-4d4f-9e11-770b16d786c8",
+        "name": "ENSIIE",
+        "color": "orange"
+      }
+    },
+    "Description": {
+      "id": "J%3AF%5B",
+      "type": "rich_text",
+      "rich_text": []
+    },
+    "Nombre heures": {
+      "id": "JjGy",
+      "type": "number",
+      "number": 14
+    },
+    "Type de tâche": {
+      "id": "L~%5D%3E",
+      "type": "select",
+      "select": null
+    },
+    "En souffrance": {
+      "id": "Ox~q",
+      "type": "formula",
+      "formula": {
+        "type": "string",
+        "string": ""
+      }
+    },
+    "Personne assignée": {
+      "id": "Qv%5Dw",
+      "type": "people",
+      "people": []
+    },
+    "État": {
+      "id": "S%5E%3Ed",
+      "type": "status",
+      "status": {
+        "id": "2882bc4e-da9f-4eb2-a695-c9b64a3c9899",
+        "name": "Pas commencé",
+        "color": "default"
+      }
+    },
+    "Facturé": {
+      "id": "UrM_",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "ID de facture": {
+      "id": "XMVJ",
+      "type": "select",
+      "select": null
+    },
+    "Priorité": {
+      "id": "%5EYGk",
+      "type": "select",
+      "select": null
+    },
+    "Tarif horaire": {
+      "id": "%60_Pc",
+      "type": "number",
+      "number": 15
+    },
+    "A facturer": {
+      "id": "dF%3AB",
+      "type": "select",
+      "select": {
+        "id": "e2ed5c32-9f2f-4c45-a567-486e828fa690",
+        "name": "False",
+        "color": "brown"
+      }
+    },
+    "Date de début": {
+      "id": "hjFQ",
+      "type": "date",
+      "date": {
+        "start": "2025-07-31",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Contenu de cours": {
+      "id": "rDxR",
+      "type": "relation",
+      "relation": [],
+      "has_more": false
+    },
+    "Cours": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Accessibilité des Données : Enjeux, Solutions et Bonnes Pratiques",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Accessibilité des Données : Enjeux, Solutions et Bonnes Pratiques",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Accessibilit-des-Donn-es-Enjeux-Solutions-et-Bonnes-Pratiques-20f2cdbb4757813ea159c862d0db2398",
+  "public_url": "https://tin-cloudberry-7b3.notion.site/Accessibilit-des-Donn-es-Enjeux-Solutions-et-Bonnes-Pratiques-20f2cdbb4757813ea159c862d0db2398"
+}
